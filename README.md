@@ -1,141 +1,74 @@
-<div align="center">
+# 👨‍💻 Deepak G 
 
-# 👨‍💻 SRI KANTH S
+### **Software-Focused Engineer | IoT Specialist | Problem Solver**
+> *Bridging the gap between robust hardware and scalable software.*
 
-### Software-Focused Engineer | Full Stack Developer | AI Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Enthusiast;Java+Developer;MERN+Stack+Learner;Problem+Solver" />
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srikanth-selvam-385973356)
-
-</div>
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/deepakg2006/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-govindaraj-402524274/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://gdeepak2201-dot.github.io/portfolio/)
 
 ---
 
-# 🚀 About Me
+### 🚀 About Me
+I am an **Electronics & Communication Engineering** student at Rathinam Technical Campus with a deep passion for **Backend Architecture** and **Scalable Logic**. I specialize in building data-driven applications and optimizing the intersection of IoT and Web technologies.
 
-🎓 Engineering Student passionate about software development and scalable applications.
-
-💻 Interested in:
-- Full Stack Development
-- AI & Machine Learning
-- Backend Architecture
-- MERN Stack
-- Java Development
-
-🔥 Currently building intelligent AI-powered applications and real-world software projects.
+* 🏆 **Global Startup Summit 2025:** Top Performer Award.
+* 🧩 **Algorithmic Enthusiast:** 200+ LeetCode problems solved.
+* 🤖 **IoT Innovator:** Developed autonomous irrigation protocols.
+* 🎓 **Focus:** High-performance Java applications and SQL optimization.
 
 ---
 
-# 🛠️ Technical Arsenal
+### 🛠️ Technical Arsenal
 
-<table>
-<tr>
-<td><strong>Languages</strong></td>
-<td>
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-
-</td>
-</tr>
-
-<tr>
-<td><strong>Frontend</strong></td>
-<td>
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-
-</td>
-</tr>
-
-<tr>
-<td><strong>Backend</strong></td>
-<td>
-
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-</td>
-</tr>
-
-<tr>
-<td><strong>Database</strong></td>
-<td>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-</td>
-</tr>
-
-</table>
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Embedded** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![IoT](https://img.shields.io/badge/-IoT-blueviolet?style=flat-square) |
+| **Dev Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![JDBC](https://img.shields.io/badge/-JDBC-orange?style=flat-square) |
 
 ---
 
-# 📌 Featured Projects
+### 📌 Featured Projects
 
-## 🤖 SkillGraph AI
-AI-powered workforce intelligence platform that analyzes employee skills and project compatibility.
+#### 🤖 [Autonomous Irrigation Protocol](https://github.com/gdeepak2201-dot)
+*An IoT solution using soil sensors and Arduino to automate water delivery, featuring a Node.js/MySQL backend for data persistence and monitoring.*
+> **Tech:** Arduino, Embedded C
 
----
+#### 🍔 [Food Ordering & Admin System](https://github.com/gdeepak2201-dot)
+*A full-stack application with a dynamic ordering interface and a comprehensive management dashboard for menu and order tracking.*
+> **Tech:** Node.js, Express, EJS, MySQL
 
-## 🩺 OCR Prescription Analysis
-AI system that extracts and analyzes medical prescriptions using OCR technology.
+#### 🏛️ [College Management System](https://github.com/gdeepak2201-dot/collegemanagement)
+*Full-featured academic workflow engine handling student records and administrative logistics.*
+> **Tech:** Java, MySQL, OOP Principles
 
----
-
-## 🚗 Smart Seatbelt Controlled Vehicle Speed Limiter
-Vehicle safety automation system using smart seatbelt monitoring and speed control.
-
----
-
-# 📊 Coding Metrics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SRIKANTH690&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIKANTH690&layout=compact&theme=tokyonight"/>
-
-</div>
+#### 📊 [Student Enrollment (JDBC)](https://github.com/gdeepak2201-dot/studentmanagementjdbc)
+*Performance-optimized CRUD application utilizing raw JDBC for high-speed database interactions.*
+> **Tech:** Java, JDBC, PostgreSQL
 
 ---
 
-# 🔥 GitHub Streak
+### 📊 Coding Metrics
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SRIKANTH690&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🧠 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gdeepak2201-dot&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Deepak's GitHub Stats" />
+  <br/><br/>
+  <img src="https://leetcard.jacoblin.cool/deepakg2006?theme=dark&font=Recursive" alt="Deepak's LeetCode Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gdeepak2201-dot&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+</p>
 
 ---
 
-# 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/srikanth-selvam-385973356
-- 📧 Email: yourmail@gmail.com
+### 🤝 Connect with Me
+- 🔭 **I’m currently working on:** Advanced Microservices Architecture.
+- ⚡ **Fun Fact:** I approach coding like circuit design—efficiency and low resistance are key.
+- 💬 **Ask me about:** Java, SQL, or why IoT is the future of automation.
+- 📫 **How to reach me:** [gdeepak2201@gmail.com](mailto:gdeepak2201@gmail.com)
 
 ---
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=SRIKANTH690&color=blue)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gdeepak2201-dot&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
